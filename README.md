@@ -1,4 +1,4 @@
-# harhat-template
+# hardhat-template
 
 ## How to start ?
 
